@@ -1,6 +1,6 @@
 <?php 
 /**
-* 
+* Modelo de empresas
 */
 class Empresas 
 {
